@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mijanur Rahman
+# Hi there, I'm Mijanur Rahman
 ### I'm a Software Engineer from Bangladesh
 
 - 🔭 Working with React.js and Next.js to create dynamic user interfaces
