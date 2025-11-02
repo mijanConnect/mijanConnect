@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Mijanur Rahman
 ### I'm a Software Engineer from Bangladesh
 
-- 🔭 I’m currently working on a Next.js project  
+- 🔭 I’m currently working with React.js and Next.js  
 - 🌱 I’m learning Python  
-- 💬 Ask me about web development  
+- 💬 You can ask me anyting about web development
 - ⚡ Fun fact: I love mountains and coding!
 
 ### 📫 Where to find me:
