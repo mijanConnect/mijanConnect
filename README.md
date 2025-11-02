@@ -39,7 +39,7 @@
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left">
+<p align="left" width="full">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mijanConnect&show_icons=true&theme=radical" 
     alt="GitHub stats" 
