@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Mijanur Rahman
 ### I'm a Software Engineer from Bangladesh
 
-🔭 Working with React.js and Next.js to create dynamic user interfaces
-🧠 Managing state efficiently using Redux Toolkit
-🌐 Handling APIs and data fetching with Axios
-🎨 Writing clean, reusable, and maintainable code with Tailwind CSS and Ant Design
-🚀 Focused on performance, accessibility, and SEO-friendly development
-⚡ Fun fact: I love mountains and coding!
-🌱 I’m learning Python  
-💬 You can ask me anyting about web development
+- 🔭 Working with React.js and Next.js to create dynamic user interfaces
+- 🧠 Managing state efficiently using Redux Toolkit
+- 🌐 Handling APIs and data fetching with Axios
+- 🎨 Writing clean, reusable, and maintainable code with Tailwind CSS and Ant Design
+- 🚀 Focused on performance, accessibility, and SEO-friendly development
+- ⚡ Fun fact: I love mountains and coding!
+- 🌱 I’m learning Python  
+- 💬 You can ask me anyting about web development
 
 ### 📫 Where to find me:
 <p align="left">
