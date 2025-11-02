@@ -6,9 +6,9 @@
 - 🌐 Handling APIs and data fetching with Axios
 - 🎨 Writing clean, reusable, and maintainable code with Tailwind CSS and Ant Design
 - 🚀 Focused on performance, accessibility, and SEO-friendly development
-- ⚡ Fun fact: I love mountains and coding!
 - 🌱 I’m learning Python  
 - 💬 You can ask me anyting about web development
+- ⚡ Fun fact: I love mountains and coding!
 
 ### 📫 Where to find me:
 <p align="left">
